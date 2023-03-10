@@ -4,7 +4,7 @@ import Section from '@/components/section'
 const Recipes = () => (
 	<Page>
 		<Section>
-			<h2 className='text-xl font-semibold'>Ingredients</h2>
+			<h2 className='text-xl font-semibold'>Contato</h2>
 
 			<div className='mt-2'>
 				<p className='text-zinc-600 dark:text-zinc-400'>
